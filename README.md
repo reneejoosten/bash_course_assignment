@@ -5,7 +5,4 @@
 This repo was made for the module 'science on a server with bash for beginners' in the pilot course 
 research skills
 
-Change something here for the 1st time
-Changed something again
-
 If you always do what you always did, you will always get what you always got
