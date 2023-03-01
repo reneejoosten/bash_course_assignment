@@ -1,0 +1,11 @@
+--2023-03-01 11:25:06--  https://www.google.com/url?sa=i
+Resolving www.google.com (www.google.com)... 172.217.168.196, 2a00:1450:400e:80c::2004
+Connecting to www.google.com (www.google.com)|172.217.168.196|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/mbshome/reneejoosten/bash_course_assignment/cat_picture.pdf’
+
+              /mbshome/renee     [<=>                                          ]       0  --.-KB/s               /mbshome/reneejoosten/bash_c     [ <=>                                         ]   1.42K  --.-KB/s    in 0s      
+
+2023-03-01 11:25:06 (20.9 MB/s) - ‘/mbshome/reneejoosten/bash_course_assignment/cat_picture.pdf’ saved [1452]
+
