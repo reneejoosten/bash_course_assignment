@@ -34,3 +34,4 @@ rm ${input_directory}/*.bam.bai >> ${output_directory}/bam2bigwig_log.txt 2>&1
 
 #end by echoing my name
 echo Renée Joosten, s1009390
+
